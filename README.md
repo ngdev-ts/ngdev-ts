@@ -29,7 +29,7 @@
 ## 📫 Como me encontrar
 
 - **Email**: ngdev.ts@gmail.com
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/adriano-angelico/)
+- **LinkedIn**: [https://www.linkedin.com/in/adriano-angelico/](https://www.linkedin.com/in/adriano-angelico/)
 
 ---
 
