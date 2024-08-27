@@ -1,3 +1,5 @@
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQHXUpLeP5avxA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1703178361194?e=1730332800&v=beta&t=232hm5vck-Ow5_e_IeeytzerF8Qwco4FpTU_nSsnNOY)
+
 # 👋 Olá, eu sou Adriano!
 
 🎨 **Desenvolvedor Front-End Angular** com grande experiência em criar interfaces de usuário dinâmicas, acessíveis e responsivas. Tenho uma paixão por traduzir ideias complexas em experiências digitais intuitivas e impactantes.
