@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/v2/D4D16AQHXUpLeP5avxA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1703178361194?e=1730332800&v=beta&t=232hm5vck-Ow5_e_IeeytzerF8Qwco4FpTU_nSsnNOY)
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQEDXkH2XZUknQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725649872028?e=1730937600&v=beta&t=oBhmuVhDdb3afGZuG8e-fnVTSBXY5LgwkZSp_SAgMAE)
 
 # 👋 Olá, eu sou Adriano!
 
